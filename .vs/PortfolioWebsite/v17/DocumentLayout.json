@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Keira\\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\\Year 4\\Portfolio\\PortfolioWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A201BBCF-08BB-4446-9153-C9AC1B9CADBB}|HTML{A201BBCF-08BB-4446-9153-C9AC1B9CADBB}|C:\\Users\\Keira\\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\\Year 4\\Portfolio\\PortfolioWebsite\\Index.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{A201BBCF-08BB-4446-9153-C9AC1B9CADBB}|HTML{A201BBCF-08BB-4446-9153-C9AC1B9CADBB}|solutionrelative:Index.html||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90F8F50-0E71-44BB-8A2E-BD1C195AC3A5}|JavaScript{B90F8F50-0E71-44BB-8A2E-BD1C195AC3A5}|C:\\Users\\Keira\\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\\Year 4\\Portfolio\\PortfolioWebsite\\App.js||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}",
+      "RelativeMoniker": "D:0:0:{B90F8F50-0E71-44BB-8A2E-BD1C195AC3A5}|JavaScript{B90F8F50-0E71-44BB-8A2E-BD1C195AC3A5}|solutionrelative:App.js||{C76D83F8-A489-11D0-8195-00A0C91BBEE3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|CSS{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|C:\\Users\\Keira\\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\\Year 4\\Portfolio\\PortfolioWebsite\\StyleSheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|CSS{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}|solutionrelative:StyleSheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Keira\\Uni Stuff\\Year 4\\Portfolio\\PortfolioWebsite\\Tech.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 135,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\Keira\\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\\Year 4\\Portfolio\\PortfolioWebsite\\App.js",
+              "RelativeDocumentMoniker": "App.js",
+              "ToolTip": "C:\\Users\\Keira\\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\\Year 4\\Portfolio\\PortfolioWebsite\\App.js",
+              "RelativeToolTip": "App.js",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-24T19:22:50.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\Keira\\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\\Year 4\\Portfolio\\PortfolioWebsite\\StyleSheet.css",
+              "RelativeDocumentMoniker": "StyleSheet.css",
+              "ToolTip": "C:\\Users\\Keira\\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\\Year 4\\Portfolio\\PortfolioWebsite\\StyleSheet.css",
+              "RelativeToolTip": "StyleSheet.css",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAAAJoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-02-27T15:40:43.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tech.html",
+              "DocumentMoniker": "C:\\Users\\Keira\\Uni Stuff\\Year 4\\Portfolio\\PortfolioWebsite\\Tech.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Uni Stuff\\Year 4\\Portfolio\\PortfolioWebsite\\Tech.html",
+              "ToolTip": "C:\\Users\\Keira\\Uni Stuff\\Year 4\\Portfolio\\PortfolioWebsite\\Tech.html",
+              "RelativeToolTip": "..\\..\\..\\..\\Uni Stuff\\Year 4\\Portfolio\\PortfolioWebsite\\Tech.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-25T14:47:47.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.html",
+              "DocumentMoniker": "C:\\Users\\Keira\\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\\Year 4\\Portfolio\\PortfolioWebsite\\Index.html",
+              "RelativeDocumentMoniker": "Index.html",
+              "ToolTip": "C:\\Users\\Keira\\OneDrive - GLASGOW CALEDONIAN UNIVERSITY\\Year 4\\Portfolio\\PortfolioWebsite\\Index.html",
+              "RelativeToolTip": "Index.html",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-02-24T19:17:50.034Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
