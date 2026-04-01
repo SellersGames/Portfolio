@@ -328,8 +328,9 @@ iframe
 
 .project__content
 {
-	display: flex;
+	/* display: flex; */
 	justify-content: center;
+	margin: 50px 100px;
 }
 
 .video
@@ -343,11 +344,13 @@ iframe
 {
 	display: grid;
 	justify-content: center;
-	grid-template-columns: repeat(auto-fill, minmax(0px, 5000px));
-	gap: 50px;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 5000px));
+	gap: 10px;
 	max-width: 5000px;
 	margin: 0 auto;
 	padding: 50px 0px;
+	flex-wrap: wrap;
+	width: 100%;
 }
 
 .image__item
@@ -356,6 +359,7 @@ iframe
 	height: 150px;
 	justify-content: center;
 }
+
 
 
 
