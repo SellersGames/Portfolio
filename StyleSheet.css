@@ -43,7 +43,7 @@ ul
 .navbar
 {
 	background: #5A4FCF;
-	height: 80px;
+	height: 100px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -57,7 +57,7 @@ ul
 {
 	display: flex;
 	justify-content: space-between;
-	height: 80px;
+	height: 100px;
 	z-index: 1;
 	width: 100%;
 	max-width: 5000px;
@@ -81,7 +81,7 @@ ul
 	column-gap: 5px;
 	grid-template-columns: auto 1f;
 	grid-template-rows: auto auto;
-	margin-top: 20px;
+	margin-top: 10px;
 }
 
 .logo
@@ -377,8 +377,10 @@ ul
 
 iframe
 {
-	width: 400px;
-	height: 200px;
+	width: 500px;
+	height: 300px;
+	margin: 20px;
+	display: flex;
 }
 
 .project__content
@@ -390,9 +392,9 @@ iframe
 
 .video
 {
-	padding: 100px 0px;	
-	display: flex;
-	justify-content: center;
+	justify-self: center;
+	margin: 10px;
+	padding: 40px;
 }
 
 .images__container
@@ -437,5 +439,28 @@ iframe
     height: 100%;
     object-fit: cover;
 }
+
+.contributions
+{
+	justify-self: center;
+	text-align: center;
+}
+
+.contributions ul
+{
+	list-style: square;
+	list-style-position: outside;
+	color: #fff;
+	margin: 5px;
+	padding: 10px;
+	text-align: left;
+	display: inline-block;
+}
+
+.contributions li
+{
+	padding: 5px;
+}
+
 
 /*#endregion ProjectSites */
