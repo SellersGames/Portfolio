@@ -462,5 +462,11 @@ iframe
 	padding: 5px;
 }
 
+.note__text
+{
+	font-style: italic;
+	font-size: small;
+}
+
 
 /*#endregion ProjectSites */
