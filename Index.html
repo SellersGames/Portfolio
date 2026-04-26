@@ -8,7 +8,10 @@
 
 
     <title>PortfolioWebsite</title>
-    <link rel="stylesheet" href="StyleSheet.css" />
+    <link rel="stylesheet" href="StyleSheet.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Martel:wght@200;300;400;600;700;800;900&display=swap" rel="stylesheet">
 
 </head>
 
@@ -18,29 +21,33 @@
 
       <div class="navbar__container">
 
-          <a href="/" id="navbar__logo">Keira Sellers</a>
-
-          <div class="navbar__toggle" id="mobile-menu">
+            <a href="/" id="navbar__logo">
+                <img class="logo" src="Images/Logo-cropped-transparent.png" alt="Logo"/>
+                    <span class="name__text" id="navbar__logo">Keira Sellers</span>
+                    <p class="title__text" id="navbar__logo">Game Developer</p>
+            </a>
+            
+            <div class="navbar__toggle" id="mobile-menu">
               <span class="bar"></span>
               <span class="bar"></span>
               <span class="bar"></span>
-          </div>
+            </div>
 
-          <ul class="navbar__menu">
-              <li class="navbar__item">
-                  <a href="/" class="navbar__links"> Projects </a>
-              </li>
+            <ul class="navbar__menu">
+                <li class="navbar__item">
+                    <a href="/" class="navbar__links"> Projects </a>
+                </li>
 
-              <li class="navbar__item">
-                  <a href="/" class="navbar__links"> About Me </a>
-              </li>
+                <li class="navbar__item">
+                    <a href="/" class="navbar__links"> About Me </a>
+                </li>
 
-              <li class="navbar__item">
-                  <a href="/" class="navbar__links"> Contact </a>
-              </li>
-          </ul>
+                <li class="navbar__item">
+                    <a href="/" class="navbar__links"> Contact </a>
+                </li>
+            </ul>
 
-      </div>
+        </div>
 
     </nav>
 
@@ -51,7 +58,7 @@
             <div class="projects__card">
                 <div class="projects__image">
                     <a href="Scopophobia.html">
-                    <img src="Images/Scopophobia_Cover_Image.png" alt="Scopophobia"/>
+                    <img src="Images/Scopophobia/Scopophobia_Cover_Image.png" alt="Scopophobia"/>
                     </a>
                </div>
                 <div class="projects__content">
@@ -63,7 +70,7 @@
             <div class="projects__card">
                 <div class="projects__image">
                     <a href="Starshot.html">
-                    <img src="Images/Starshot_cover_image.png" alt="Starshot"/>
+                    <img src="Images/Starshot/Starshot_cover_image.png" alt="Starshot"/>
                     </a>
                </div>
                 <div class="projects__content">
@@ -74,7 +81,9 @@
 
             <div class="projects__card">
                 <div class="projects__image">
+                    <a href="HonoursProject.html">
                     <img src="Images/Temp_imag.png" alt="Honours Project"/>
+                    </a>
                </div>
                 <div class="projects__content">
                     <h2>Honours Project</h2>
@@ -84,46 +93,38 @@
 
             <div class="projects__card">
                 <div class="projects__image">
+                    <a href="ChaosBrawl.html">
                     <img src="Images/Temp_imag.png" alt="Chaos Brawl"/>
+                    </a>                    
                </div>
                 <div class="projects__content">
                     <h2>Chaos Brawl</h2>
                     <p>Multiplayer Plaformer Game</p>
                 </div>
             </div> 
-
-            <div>
-                <h2>Other Projects</h2>
-                <ul>
-                    <li>LookAlive!</li>
-                    <li>Please Dont Burst My Bubble</li>
-                    <li>This website</li>
-                </ul>
-            </div>
-
         </div>
+
+        <div class="other__projects">
+            <h2>Other Projects</h2>
+            <ul>
+                <li>LookAlive!</li>
+                <li>Please Dont Burst My Bubble</li>
+                <li>This website</li>
+            </ul>
+        </div>
+
     </div>
 
     <div class="aboutMe">
         <div class="aboutMe__container">
             <h1>About Me</h1>
 
-            <div>
-                <img src="Images/Temp_imag.png" alt=""/>
-            </div>
+            <p>Hi, i'm Keira.</p>
+            <p>I have interest in gameplay, system and physics programming.</p>
+            <p>I have experience in C# and C++, and using Unity and Unreal game engines.</p>
+            <p> Hobbies include: playing games, reading, spending time with friends and family.</p>
+            <P>My favourite games include: Resident Evil, Uncharted, The Last Of Us, God of War.</P>
 
-            <p> 
-                Hi, Im Keira.
-
-                I have an interest in Gameplay Programming.
-                I have experience with C# and C++.
-                I have experience with Unity and Unreal Engine.
-
-                My favourite Games include Resident Evil, Uncharted, The Last of Us, etc
-
-                Hobbies include: playing games, reading, spending time with friends and family.
-
-            </p>
         </div>
     </div>
 

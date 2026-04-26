@@ -9,6 +9,9 @@
 
     <title>PortfolioWebsite</title>
     <link rel="stylesheet" href="StyleSheet.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Martel:wght@200;300;400;600;700;800;900&display=swap" rel="stylesheet">
 
 </head>
 
@@ -18,7 +21,11 @@
 
       <div class="navbar__container">
 
-          <a href="/" id="navbar__logo">Keira Sellers</a>
+            <a href="/" id="navbar__logo">
+                <img class="logo" src="Images/Logo-cropped-transparent.png" alt="Logo"/>
+                    <span class="name__text" id="navbar__logo">Keira Sellers</span>
+                    <p class="title__text" id="navbar__logo">Game Developer</p>
+            </a>
 
           <div class="navbar__toggle" id="mobile-menu">
               <span class="bar"></span>
@@ -46,15 +53,16 @@
 
     <div> 
 
-        <h1>Scopophobia</h1>
+        <h1>Starshot</h1>
 
         <div class="project__content"> 
-
+            <h2>Images</h2>
             <div class="images__container">
-                <img class="image__item" src="Images/Scopophobia1.png">
-                <img class="image__item" src="Images/Scopophobia2.png">
-                <img class="image__item" src="Images/Scopophobia3.png">
-                <img class="image__item" src="Images/Scopophobia4.png">
+                <img class="starshot__image__item" src="Images/Starshot/Starshot1.png">
+                <img class="starshot__image__item" src="Images/Starshot/Starshot2.png">
+                <img class="starshot__image__item" src="Images/Starshot/Starshot3.png">
+                <img class="starshot__image__item" src="Images/Starshot/Starshot4.png">
+                <img class="starshot__image__item" src="Images/Starshot/Starshot5.png">
             </div>
 
             <div class="video">
@@ -62,6 +70,7 @@
             </div>
 
             <div class="contributions">
+                <h2>Contributions</h2>
                 <p>
                     Starshot was created as part of the Bullet Hell Game Jam 2024. It was made over the course of 10 days with a 2 person team.
                     My focus was on the enemy and creating the different ways it could attack the player.
